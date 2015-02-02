@@ -1,5 +1,17 @@
 [
     {
+        "remote": "github",
+        "repository": "jewnersey/android_kernel_samsung_chagallwifi",
+        "target_path": "kernel/samsung/klimtwifi",
+        "revision": "cm-11.0-sh"
+    },
+    {
+        "remote": "github",
+        "repository": "jewnersey/android_vendor_samsung_klimtwifi",
+        "target_path": "kernel/samsung/chagallwifi",
+        "revision": "cm-12.0"
+    },
+    {
         "repository": "android_kernel_samsung_exynos5420",
         "target_path": "kernel/samsung/exynos5420"
     },

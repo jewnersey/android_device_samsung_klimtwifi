@@ -1,16 +1,4 @@
 [
-    {
-        "remote": "github",
-        "repository": "jewnersey/android_kernel_samsung_chagallwifi",
-        "target_path": "kernel/samsung/klimtwifi",
-        "revision": "cm-11.0-sh"
-    },
-    {
-        "remote": "github",
-        "repository": "jewnersey/android_vendor_samsung_klimtwifi",
-        "target_path": "vendor/samsung/klimtwifi",
-        "revision": "cm-12.0"
-    },
      {
         "remote": "cm",
         "repository": "android_hardware_samsung",
